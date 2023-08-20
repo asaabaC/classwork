@@ -9,4 +9,5 @@ product = d*e
 if c> product:
     print("the answer is ", c)
 else:
-    print(" the answer is",product)    
+    print(" the answer is",product)
+    print(" I love myself")    
