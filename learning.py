@@ -1,5 +1,5 @@
-a = 6
-b = 6
+a = 2
+b = 4
 answer = a+b
 
 if a>b:
