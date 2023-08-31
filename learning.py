@@ -1,7 +1,7 @@
 a = 2
 b = 4
 answer = a+b
-
+print(answer)
 if a>b:
     print("the greater number is: ", a)
 elif a==b:
